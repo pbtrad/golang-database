@@ -1,0 +1,12 @@
+{
+	"Name": "John",
+	"Age": 23,
+	"Contact": "32323234",
+	"Company": "Fake Co.",
+	"Address": {
+		"City": "dublin",
+		"County": "dublin",
+		"Country": "ireland",
+		"Pincode": 12345
+	}
+}
